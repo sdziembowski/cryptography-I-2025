@@ -17,6 +17,16 @@ Chapter 1, slides 1-58
 
 ## Exercises
 
+TBD
+
+## Passing rules:
+**exercise points:** 50% homework/activity points
+**grade:** a function of max(exam, (exam + exercises)/2)
+
+## Example of exam questions
+
+TBD
+
 
 
 

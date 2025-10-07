@@ -21,6 +21,7 @@ TBD
 
 ## Passing rules:
 **exercise points:** 50% homework/activity points
+
 **grade:** a function of max(exam, (exam + exercises)/2)
 
 ## Example of exam questions

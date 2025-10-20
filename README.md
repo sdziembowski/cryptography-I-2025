@@ -16,7 +16,7 @@
 Chapter 1, slides 1-58
 - **Lecture 2**
 *Oct 14, 2025*:
-we finished Chapter 1
+Chapter 1: finished,
 Chapter 2: slides 1-30
 
 ## Exercises

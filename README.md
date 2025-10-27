@@ -21,7 +21,9 @@ Chapter 2: slides 1-30
 - **Lecture 3**,
 *Oct 20, 2025*:
 Chapter 2: slides 31-105
-
+- **Lecture 4**,
+*Oct 27, 2025*:
+Chapter 2: slides 106-179
 
 
 ## Exercises

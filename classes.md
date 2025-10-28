@@ -9,4 +9,4 @@
 * Tuesday group: exercises 2.4, 3.1-3.3, we started 2.3. Homework: finish 2.3
 # Week 4
 * Monday group: exercise 2.3, 2.4, 2.7, 2.8, 2.9. Homework: 2.10.
-* Tuesday group: exercises ...
+* Tuesday group: exercise 2.3, 2.4, 2.7, 2.8, 2.9. Homework: 2.10.

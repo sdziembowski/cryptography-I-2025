@@ -10,3 +10,5 @@
 # Week 4
 * Monday group: exercise 2.3, 2.4, 2.7, 2.8, 2.9. Homework: 2.10.
 * Tuesday group: exercise 2.3, 2.4, 2.7, 2.8, 2.9. Homework: 2.10.
+# Week 5
+* Monday group: exercise: 4.1-4.3, 2.5, 4.6-4.7. Homework: 4.4

@@ -28,6 +28,10 @@ Chapter 2: slides 106-179
 *Nov 3, 2025*:
 Chapter 2: finished,
 Chapter 3: all slides
+- **Lecture 5**,
+*Nov 13, 2025*:
+Chapter 4: all slides,
+Chapter 5: slides 1-55
 
 ## Exercises
 

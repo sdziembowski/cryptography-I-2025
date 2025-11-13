@@ -16,22 +16,22 @@
 Chapter 1, slides 1-58
 - **Lecture 2**,
 *Oct 13, 2025*:
-Chapter 1: finished,
-Chapter 2: slides 1-30
+Chapter 1, finished,
+Chapter 2, slides 1-30
 - **Lecture 3**,
 *Oct 20, 2025*:
-Chapter 2: slides 31-105
+Chapter 2, slides 31-105
 - **Lecture 4**,
 *Oct 27, 2025*:
-Chapter 2: slides 106-179
+Chapter 2, slides 106-179
 - **Lecture 5**,
 *Nov 3, 2025*:
-Chapter 2: finished,
-Chapter 3: all slides
+Chapter 2, finished,
+Chapter 3, all slides
 - **Lecture 5**,
 *Nov 13, 2025*:
-Chapter 4: all slides,
-Chapter 5: slides 1-55
+Chapter 4, all slides,
+Chapter 5, slides 1-55
 
 ## Exercises
 

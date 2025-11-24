@@ -33,9 +33,11 @@ Chapter 3, all slides
 Chapter 4, all slides,
 Chapter 5, slides 1-55
 - **Lecture 7**,
-*Nov 10, 2025*:
+*Nov 17, 2025*:
 Chapter 5,finished, Chapter 6, slides 1-94
-
+- **Lecture 8**,
+*Nov 24, 2025*:
+Chapter 6,finished, Chapter 7, slides 1-29
 
 ## Exercises
 

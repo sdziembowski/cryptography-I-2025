@@ -25,6 +25,7 @@ Discrete logarithm. Applications of number-theoretic PRFs, we will do the securi
 # Week 8
 RSA properties.
 * Monday group (Nov 24): fixes for 5.5 and 2.11, 7.1-7.3. Homework: 6.7
-* Tuesday group (Nov 25): ...
+* Tuesday group (Nov 25): fixes for 2.11, 7.1-7.3, 6.7. Homework: 6.6
 # Week 9
 
+# Week 10

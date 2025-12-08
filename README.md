@@ -38,6 +38,9 @@ Chapter 5, finished, Chapter 6, slides 1-94
 - **Lecture 8**,
 *Nov 24, 2025*:
 Chapter 6, finished, Chapter 7, slides 1-29
+- **Lecture 9**,
+  Dec 1, 2025*:
+Chapter 7, slides 30-110
 
 ## Exercises
 

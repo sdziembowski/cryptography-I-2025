@@ -44,7 +44,7 @@ Chapter 7, slides 30-110
 
 ## Exercises
 
-click [here](https://github.com/sdziembowski/cryptography-I-2025/blob/main/classes.md)
+click [here](classes.md)
 
 ## Passing rules:
 **exercise points:** 50% homework/activity points

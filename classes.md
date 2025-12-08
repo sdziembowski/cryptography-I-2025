@@ -27,5 +27,7 @@ RSA properties.
 * Monday group (Nov 24): fixes for 5.5 and 2.11, 7.1-7.3. Homework: 6.7
 * Tuesday group (Nov 25): fixes for 2.11, 7.1-7.3, 6.7. Homework: 6.6
 # Week 9
+* Monday group (Dec 1): exercise: 6.6, 7.4, 7.5.1. Homework: 7.10
+* Tuesday group (Dec 2): exercise: 7.4-7.6. Homework: 7.10
 
 # Week 10

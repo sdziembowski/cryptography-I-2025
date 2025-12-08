@@ -31,3 +31,6 @@ RSA properties.
 * Tuesday group (Dec 2): exercise: 7.4-7.6. Homework: 7.10
 
 # Week 10
+Paillier and CCA basics
+* Monday group (Dec 8): exercises: 7.7, 7.13, 7.14. We started 7.12, but we'll go over it again. Homework: 7.5.
+* Tuesday group (Dec 9): exercises: 7.7, 7.13, 7.14... and rest TBD

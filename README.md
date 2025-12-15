@@ -44,6 +44,9 @@ Chapter 7, slides 30-110
 - **Lecture 10**,
   *Dec 8, 2025:*
 Chapter 7, finished
+- **Lecture 11**,
+  *Dec 15, 2025:*
+Chapter 8, slides 1-68
 
 ## Exercises
 

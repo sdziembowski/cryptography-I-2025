@@ -64,6 +64,8 @@ click [here](classes.md)
 
 Feb 4, 10:00-13:00, room 2070
 
+**Resit:** Feb 18, 10:00-13:00, room 2070
+
 ## Example of exam questions
 
 TBD

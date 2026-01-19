@@ -60,6 +60,10 @@ click [here](classes.md)
 
 **grade:** a function of max(exam, (exam + exercises)/2)
 
+## Exam
+
+Feb 4, 10:00-13:00, room 2070
+
 ## Example of exam questions
 
 TBD

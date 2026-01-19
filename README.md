@@ -49,7 +49,7 @@ Chapter 7, finished
 Chapter 8, slides 1-68
 - **Lecture 12**,
   *Jan 12, 2026:*
-Chapter 9, finished, Chapter 9, Chapter 10, slides 1-46
+Chapter 9, finished, Chapter 9, Chapter 10, slides 1-18
 
 ## Exercises
 
